@@ -197,4 +197,4 @@
 # 
 # 
 # 
-# [basketball t](https://basketball-legends.s3.amazonaws.com/)
+# https://basketball-legends.s3.amazonaws.com
