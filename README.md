@@ -197,4 +197,4 @@
 # 
 # 
 # 
-# https://basketball-legends.s3.amazonaws.com
+# secret link - basketball-legends.s3.amazonaws.com
